@@ -8,4 +8,4 @@ Download as a ZIP file and upload using the normal Wordpress "Add Plugin" dialog
 
 ## License
 
-This open-source software is provided as-is under the GNU GPLv3, with no warranty expressed or implied. [View License](LICENSE.md)
+This open-source software is provided as-is under the GNU GPLv3, with no warranty expressed or implied. [View License](LICENSE)
